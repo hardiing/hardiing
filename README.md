@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nathan!
-- 👀 I’m interested in becoming a full stack developer! In my free time you can find me lifting weights, watching movies/tv, playing video games, or reading books.
-- 🌱 I’m currently learning Javascript, about to learn my first framework - React!
+- 👀 I’m interested in becoming a data analyst! In my free time you can find me lifting weights, watching movies/tv, playing video games, or reading books.
+- 🌱 I’m currently wrapping up the Google Data Analytics Professional Certificate.
 - 📫 You can reach me at linkedin.com/in/nathanrharding/
 
 <!---
